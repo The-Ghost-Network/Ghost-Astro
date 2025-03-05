@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/The-Ghost-Network/Ghost-Astro/refs/heads/main/public/assets/img/GHOST%20(1).png" alt="Ghost-Astro Banner" />
 </p>
 
-<h1 align="center"><strong>Ghost</strong></h1>
 <h3 align="center"><em>The Astro Version of Ghost</em></h3>
 
 <p align="center">
