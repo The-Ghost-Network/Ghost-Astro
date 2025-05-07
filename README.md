@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Ghost-Network/Ghost-Astro/refs/heads/main/public/assets/img/GHOST%20(1).png" alt="Ghost-Astro Banner" />
+  <img src="public\assets\img\ghost-title.png" alt="Ghost-Astro Banner" />
 </p>
 
 <h3 align="center"><em>The Astro Version of Ghost</em></h3>
 
 <p align="center">
-  <strong>Ghost is a web proxy created by a big man named nobodycares :3</strong><br>
+  <strong>Ghost is a web proxy created by a big man named nobodycares :3</strong>
+  <br>
   <strong>Games | Apps | Cloaking | Tabs | Customizable Search Engine | Proxy Selections</strong>
 </p>
 
