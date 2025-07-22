@@ -115,16 +115,6 @@
     "href": "/gg/drive-mad/index.html"
   },
   {
-    "name": "Minecraft 1.5",
-    "img": "background-image: url('/assets/img/assets/minecraft.webp')",
-    "href": "/gg/minecraft-15/"
-  },
-  {
-    "name": "Minecraft 1.8",
-    "img": "background-image: url('/assets/img/assets/minecraft.webp')",
-    "href": "/gg/minecraft-18/"
-  },
-  {
     "name": "Just One Boss",
     "img": "background-image: url('/assets/img/assets/justoneboss.webp')",
     "href": "/gg/justoneboss/web/"
